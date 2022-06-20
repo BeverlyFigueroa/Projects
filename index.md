@@ -1,4 +1,4 @@
-## BEVERLY FIGUEROA
+# Beverly Figueroa
 
 ## Biography
 
@@ -6,9 +6,9 @@ I recently finished the Data Analytics course given by Google Creative Campus. I
 
 ## Resume
 
-My resume and contact info can be found by [clicking here.](https://github.com/BeverlyFigueroa/Projects/blob/main/Resume2022.pdf)
+My resume and contact information can be found by [clicking here.](https://github.com/BeverlyFigueroa/Projects/blob/main/Resume2022.pdf)
 
-## Projects
+## Portfolio
 
 Here are some of the projects I've worked on that display my knowledge of different data analytic software:
 
