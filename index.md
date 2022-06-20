@@ -1,37 +1,25 @@
-## Beverly Figueroa: Example Work
+## BEVERLY FIGUEROA
 
-You can use the [editor on GitHub](https://github.com/BeverlyFigueroa/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Beverly Figueroa](https://github.com/BeverlyFigueroa/Projects/blob/main/BeverlyFigueroa1.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I recently finished the Data Analytics course given by Google Creative Campus. I have been working in the Healthcare field for 10 years as a Certified Professional Coder. I decided I wanted to try a new challege and chose Data Analytics because I have worked with computer programming in the past, as well as graphic design, so I thought this would be a good marriage between all the skills I have. 
 
-```markdown
-Syntax highlighted code block
+## Resume
 
-# Header 1
-## Header 2
-### Header 3
+My resume and contact info can be found by [clicking here.](https://github.com/BeverlyFigueroa/Projects/blob/main/Resume2022.pdf)
 
-- Bulleted
-- List
+## Projects
 
-1. Numbered
-2. List
+Here are some of the projects I've worked on that display my knowledge of different data analytic software:
 
-**Bold** and _Italic_ and `Code` text
+1. [Excel Spreadsheet Project](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)
 
-[Link](url) and ![Image](src)
-```
+2. [SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Covid_SQL_Query)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+3. R Project _(In Progress)_
 
-### Jekyll Themes
+4. Tableau Project _(In Progress)_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeverlyFigueroa/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
