@@ -20,4 +20,3 @@ Here are some of the case studies I've worked on that display my knowledge of di
    _(Analysis In Progress)_
 5. **Tableau Public Project** <br>
    _(Analysis In Progress)_
-
