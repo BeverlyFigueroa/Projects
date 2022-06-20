@@ -8,15 +8,16 @@ I recently finished the Data Analytics course given by Google Creative Campus. I
 
 My resume and contact information can be found by [clicking here.](https://github.com/BeverlyFigueroa/Projects/blob/main/Resume2022.pdf)
 
-## Portfolio
+## Case Studies
 
-Here are some of the projects I've worked on that display my knowledge of different data analytic software:
+Here are some of the case studies I've worked on that display my knowledge of different data analytic software:
 
-1. [Excel Spreadsheet Project](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)
-
-2. [SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Covid_SQL_Query)
-
-3. R Project _(Upload In Progress)_
-
-4. Tableau Project _(Upload In Progress)_
+1. **[Excel Spreadsheet Project](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)**<br>
+  A case study on a bike rental company's dataset.
+2. **[SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Covid_SQL_Query)**<br>
+  A case study on a World Covid Deaths dataset.
+3. **R Studio Project** <br>
+   _(Analysis In Progress)_
+5. **Tableau Public Project** <br>
+   _(Analysis In Progress)_
 
