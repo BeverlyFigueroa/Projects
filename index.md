@@ -16,7 +16,7 @@ Here are some of the case studies I've worked on that display my knowledge of di
   A case study on a bike rental company's dataset.
 2. **[SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Covid_SQL_Query)**<br>
   A case study on a World Covid Deaths dataset.
-3. **R Studio Project** <br>
-   _(Analysis In Progress)_
+3. **[R Studio Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Diamonds_R.Rmd)** <br>
+   A case study on a diamond dataset.
 5. **Tableau Public Project** <br>
    _(Analysis In Progress)_
