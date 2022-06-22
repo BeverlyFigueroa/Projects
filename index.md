@@ -1,5 +1,7 @@
 ## Beverly Figueroa, CPC
 
+![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/BeverlyFigueroa1.jpg?raw=true)
+
 ### Biography
 
 I recently finished the Data Analytics course given by Google Creative Campus. I have been working in the Healthcare field for 10 years as a Certified Professional Coder. I decided I wanted to try a new challege and chose Data Analytics because I have worked with computer programming in the past, as well as graphic design, so I thought this would be a good marriage between all the skills I have. 
