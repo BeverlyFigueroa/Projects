@@ -20,5 +20,10 @@ Here are some of the case studies I've worked on that display my knowledge of di
   A case study on a World Covid Deaths dataset.
 3. **[R Studio Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Diamonds_R.Rmd)** <br>
    A case study on a diamond dataset.
-5. **[Tableau Public Project](https://public.tableau.com/views/CompleteVideoGameProject/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)** <br>
-   A fun case study on video games sales.
+5. **Tableau Public Project** <br>
+   A fun case study on video games sales. 
+   
+   - [Part 1](https://public.tableau.com/views/CompleteVideoGameProject/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)<br>
+     Click the arrows at the top to scroll through the different visualizations.
+   - [Part2](https://vimeo.com/722763747/019392f786)<br>
+     I couldn't make the animated visualization work outside of Tableau, so I made a video of it!
