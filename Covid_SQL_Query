@@ -6,12 +6,10 @@
 --Covid_Deaths
 SELECT *
 FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
-![image](https://github.com/BeverlyFigueroa/Projects/blob/main/sql_Capture_1.png?raw=true)
 
 --Covid_Vaccinations
 SELECT *
 FROM `stoked-monitor-351301.Covid_Project.Covid_Vaccinations
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_2.png?raw=true)
 
 
 --Next, I will select the data I will use. 
@@ -22,7 +20,6 @@ SELECT
 FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent IS NOT NULL
 ORDER BY 1,2
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_3.png?raw=true)
 
 
 --Here I am looking at Total Cases vs Total Deaths.
@@ -34,7 +31,6 @@ SELECT
 FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent is not null
 ORDER BY 1,2 DESC
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_4.png?raw=true)
 
 
 --Here we are looking at the Total Cases vs Population
@@ -47,7 +43,6 @@ FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent IS NOT NULL
 AND location = 'China'
 ORDER BY 1,2
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_5.png?raw=true)
 
 
 --Here I am looking at Countries with the Highest Infection Rate, compared to the Population:
@@ -59,7 +54,6 @@ FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent IS NOT NULL
 GROUP BY location, population
 ORDER BY Population_Infected_Percentage DESC
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_6.png?raw=true)
 
 
 --This is showing Countries with the Highest Death Count per Population:
@@ -70,7 +64,6 @@ FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent IS NOT NULL
 GROUP BY location
 ORDER BY Total_Death_Count DESC
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_7.png?raw=true)
 
 
 --Now we can break it down by Continent
@@ -82,7 +75,6 @@ FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent IS NOT NULL
 GROUP BY continent
 ORDER BY Total_Death_Count DESC
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_8.png?raw=true)
 
 
 --We can also look at the Global Numbers
@@ -93,7 +85,6 @@ SELECT
   ROUND((SUM(CAST(new_deaths AS int))/SUM(new_cases)*100), 2) AS Global_Death_Percentage
 FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
 WHERE continent IS NOT NULL
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_9.png?raw=true)
 
 
 --I will now Join my two datasets (Covid_Deaths and Covid_Vaccinations)
@@ -107,4 +98,3 @@ JOIN `stoked-monitor-351301.Covid_Project.Covid_Vaccinations` vac
   AND dea.date = vac.date
 WHERE dea.continent IS NOT NULL
 ORDER BY 3
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_10.png?raw=true)
