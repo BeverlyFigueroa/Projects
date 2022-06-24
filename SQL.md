@@ -3,7 +3,8 @@
 This is my SQL work with data from the Coronavirus (COVID-19) Deaths dataset from Our World In Data (http://https://ourworldindata.org/covid-deaths).
 
 
-## I first take a look at the data as a whole. I am working with 2 different files: Covid_Deaths and Covid_Vaccinations:
+## I first take a look at the data as a whole. 
+_I am working with 2 different files: Covid_Deaths and Covid_Vaccinations:_
 
 - Covid_Deaths
 ```{sql connection=}
