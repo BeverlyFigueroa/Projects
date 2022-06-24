@@ -4,7 +4,7 @@
 --Covid_Deaths
 SELECT *
 FROM `stoked-monitor-351301.Covid_Project.Covid_Deaths`
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/sql_Capture_1.png?raw=true)
+![image](https://github.com/BeverlyFigueroa/Projects/blob/main/sql_Capture_1.png?raw=true)
 
 --Covid_Vaccinations
 SELECT *
