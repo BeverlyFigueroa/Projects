@@ -15,7 +15,7 @@ I am a highly motivated individual with a great work ethic with excellent analyt
 Here are some of the case studies I've worked on that display my knowledge of different data analytic software:
 
 1. **[Python Projects](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)**<br>
-   These are some of the fun programs I created in Python.
+   These are some of the fun programs I created in Python. (Click the green RUN button to see the program in action)
    - [Slot Machine Game](https://replit.com/@BeverlyFigueroa/SlotMachinepy#main.py)<br>
      I created a slot machine program that lets you gamble tokens.
    - [Dinosaur Park Party](https://replit.com/@BeverlyFigueroa/DinoParkpy#main.py)<br>
