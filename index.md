@@ -16,11 +16,11 @@ Here are some of the case studies I've worked on that display my knowledge of di
 
 1. **[Python Projects](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)**<br>
    These are some of the fun programs I created in Python.
-   - [Slot Machine Game](https://github.com/BeverlyFigueroa/Projects/blob/main/SlotMachine.py)<br>
+   - [Slot Machine Game](https://replit.com/@BeverlyFigueroa/SlotMachinepy#main.py)<br>
      I created a slot machine program that lets you gamble tokens.
-   - [Dinosaur Park Party](https://github.com/BeverlyFigueroa/Projects/blob/main/DinoParkParty.py)<br>
+   - [Dinosaur Park Party](https://replit.com/@BeverlyFigueroa/DinoParkpy#main.py)<br>
      I created a program to calculate charges depending on the size of your group.
-   - [Fat Burning Heart Rate & BMI Calculator](https://github.com/BeverlyFigueroa/Projects/blob/main/FatBurningCalculator.py)<br>
+   - [Fat Burning Heart Rate & BMI Calculator](https://replit.com/@BeverlyFigueroa/FatBurningpy#main.py)<br>
      I created a program to find your ideal heart rate and BMI. 
 2. **[SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/SQL.md)**<br>
    A case study on a World Covid Deaths dataset.
