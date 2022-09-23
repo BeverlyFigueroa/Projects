@@ -14,10 +14,16 @@ I am a highly motivated individual with a great work ethic with excellent analyt
 
 Here are some of the case studies I've worked on that display my knowledge of different data analytic software:
 
-1. **[Excel Spreadsheet Project](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)**<br>
-  A case study on a bike rental company's dataset.
+1. **[Python Projects](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)**<br>
+   These are some of the fun programs I created in Python.
+   - [Slot Machine Game](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/SlotMachine.py)<br>
+     I created a slot machine program that lets you gamble tokens.
+   - [Dinosaur Park Party](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/DinoParkParty.py)<br>
+     I created a program to calculate charges depending on the size of your group.
+   - [Fat Burning Heart Rate & BMI Calculator](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/FatBurningCalculator.py)<br>
+     I created a program to find your ideal heart rate and BMI. 
 2. **[SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/SQL.md)**<br>
-  A case study on a World Covid Deaths dataset.
+   A case study on a World Covid Deaths dataset.
 3. **[R Studio Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/R_Project.md)** <br>
    A case study on a diamond dataset.
 5. **Tableau Public Project** <br>
@@ -27,3 +33,5 @@ Here are some of the case studies I've worked on that display my knowledge of di
      Click the arrows at the top to scroll through the different visualizations.
    - [Part2](https://vimeo.com/722763747/019392f786)<br>
      I couldn't make the animated visualization work outside of Tableau Public, so I made a video of it!
+6. **[Excel Spreadsheet Project](https://github.com/BeverlyFigueroa/Projects/blob/main/BikeProject.pdf)**<br>
+   A case study on a bike rental company's dataset.
