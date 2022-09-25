@@ -20,8 +20,8 @@ Here are some of the case studies I've worked on that display my knowledge of di
      I created a slot machine program that lets you gamble tokens.
    - [Dinosaur Park Party](https://replit.com/@BeverlyFigueroa/DinoParkpy#main.py)<br>
      I created a program to calculate charges depending on the size of your group.
-   - [Fat Burning Heart Rate & BMI Calculator](https://replit.com/@BeverlyFigueroa/FatBurningpy#main.py)<br>
-     I created a program to find your ideal heart rate and BMI. 
+   - [Fat Burning Heart Rate & BMI Tracker](https://replit.com/@BeverlyFiguero1/BMITrackerpy#main.py)<br>
+     I created a program to log your ideal heart rate and BMI into a file you can update then keep track of. 
 2. **[SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/SQL.md)**<br>
    A case study on a World Covid Deaths dataset.
 3. **[R Studio Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/R_Project.md)** <br>
