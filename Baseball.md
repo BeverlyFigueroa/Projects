@@ -7,7 +7,7 @@ output: html_notebook
 
 This is my project for my CS2550 Relational Database & SQL Course
 
-##I was given an ERD by the instructor:
+__I was given an ERD by the instructor:
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/main/Baseball_ERD.PNG?raw=true)
 
 ##I was instructed to create a database and tables, per the model. 
