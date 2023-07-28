@@ -5,20 +5,21 @@ output: html_notebook
 
 # SQL Baseball Project
 
-This is my project for my CS2550 Relational Database & SQL Course
+This is my project for my CS2550 Relational Database & SQL Course. 
 
-__I was given an ERD by the instructor:
-![image](https://github.com/BeverlyFigueroa/Projects/blob/main/Baseball_ERD.PNG?raw=true)
+## I was given the following ERD by the instructor:
 
-##I was instructed to create a database and tables, per the model. 
+![image](https://github.com/BeverlyFigueroa/Projects/blob/main/Baseball_ERD.png?raw=true)
 
-##I began by creating the database:
+## I was instructed to create a database and tables, per the model. 
+
+I began by creating the database:
 ```{sql connection=}
 DROP DATABASE IF EXISTS BaseballDatabase;
 CREATE DATABASE IF NOT EXISTS BaseballDatabase;
 USE BaseballDatabase;
 ```
-##I then created the tables, starting with the tables that had no foreign keys:
+## I then created the tables, starting with the tables that had no foreign keys:
 ```{sql connection=}
 CREATE TABLE IF NOT EXISTS Player (
     PlayerID SMALLINT PRIMARY KEY NOT NULL,
@@ -33,7 +34,7 @@ CREATE TABLE IF NOT EXISTS Team (
 );
 ```
 
-##I then created the tables with foreign keys:
+## I then created the tables with foreign keys:
 ```{sql connection=}
 CREATE TABLE IF NOT EXISTS Bat (
     BatSerialNumber SMALLINT NOT NULL,
@@ -78,7 +79,7 @@ CREATE TABLE IF NOT EXISTS UnitsOfWork (
 );
 ```
 
-##Next, I was instructed to insert data for four Teams using one statement:
+## Next, I was instructed to insert data for four Teams using one statement:
 ```{sql connection=}
 INSERT INTO Team (TeamID, TeamName, TeamCity, TeamManager)
 VALUES  (1234, 'Red Sox', 'Boston', 'Homer Simpson'),
@@ -88,7 +89,7 @@ VALUES  (1234, 'Red Sox', 'Boston', 'Homer Simpson'),
 ```
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/Team_Table.PNG?raw=true)
 
-##I was then instructed to insert data for six Players using one statement:
+## I was then instructed to insert data for six Players using one statement:
 ```{sql connection=}
 INSERT INTO Player (PlayerID, PlayerName, PlayerDOB)
 VALUES  (20357, 'Larry Hansen', '1975-06-08'),
@@ -100,7 +101,7 @@ VALUES  (20357, 'Larry Hansen', '1975-06-08'),
 ```
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/Player_Table.PNG?raw=true)
 
-##Next, I was instructed to insert data for four coaches (one for each of the first three teams, and the last one --assigned to team 3 not team 4), using one statement:
+## Next, I was instructed to insert data for four coaches (one for each of the first three teams, and the last one --assigned to team 3 not team 4), using one statement:
 ```{sql connection=}
 INSERT INTO Coach (CoachID, CoachName, CoachPhoneNumber, CoachSalary, TeamID)
 VALUES  (19670, 'Tom Cruise', '801-555-1234', '44681.23', 1234),
@@ -110,7 +111,7 @@ VALUES  (19670, 'Tom Cruise', '801-555-1234', '44681.23', 1234),
 ```
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/Coach_Table.PNG?raw=true)
 
-##I was then instructed to insert data for three UnitsOfWork (for the first three coaches only):
+## I was then instructed to insert data for three UnitsOfWork (for the first three coaches only):
 ```{sql connection=}
 INSERT INTO UnitsOfWork (UnitsNumber, NumberOfYears, ExperienceType, CoachID)
 VALUES  (1, 25, 'Head Coach', 19670),
@@ -119,7 +120,7 @@ VALUES  (1, 25, 'Head Coach', 19670),
 ```
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/UnitsOfWork_Table.PNG?raw=true)
 
-##Next, I was instructed to insert data for Player History for the six Players – assigning half of them to Team 1 and --half to Team 2 - ##leaving EndDate NULL for all 6, and making sure you do not assign any of the Players to Team 3:
+## Next, I was instructed to insert data for Player History for the six Players – assigning half of them to Team 1 and half to Team 2 - leaving EndDate NULL for all 6, and making sure you do not assign any of the Players to Team 3:
 ```{sql connection=}
 INSERT INTO PlayerHistory (PlayerHistoryID, TeamID, PlayerID, PlayerBatingAverage, PlayerStartDate, PlayerEndDate, PlayerPosition)
 VALUES  (951, 1234, 20357, '300', '2003-07-21', NULL, 'First Base'),
@@ -131,7 +132,7 @@ VALUES  (951, 1234, 20357, '300', '2003-07-21', NULL, 'First Base'),
 ```
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/PlayerHistory.PNG?raw=true)
 
-##I was then instructed to update the player history (in one statement) for Player's #2, 4, and 6 – making his/her End --date July 7, 2020:
+## I was then instructed to update the player history (in one statement) for Players #2, 4, and 6 – making his/her End --date July 7, 2020:
 ```{sql connection=}
 UPDATE PlayerHistory 
 SET 
@@ -144,7 +145,7 @@ WHERE
 ```
 ![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/Baseball1.PNG?raw=true)
 
-##Next, I was instructed to update the team manager’s name to ‘Vacant’ for all teams without players assigned. I had to --figure out what teams these were within the update statement by using a subquery or JOIN:
+## Next, I was instructed to update the team manager’s name to ‘Vacant’ for all teams without players assigned. I had to --figure out what teams these were within the update statement by using a subquery or JOIN:
 ```{sql connection=}
 UPDATE Team t
         LEFT JOIN
@@ -156,7 +157,7 @@ WHERE
 ;
 ```
 
-##I was then instructed to update all the coach’s salaries, as long as they have units of Work. I was instructed not to --assume this is Coach 4, but rather use a subquery or JOIN within my statement. Then I was to increase the salary by 2.--55% and round to the nearest whole number – zero cents.
+## I was then instructed to update all the coach’s salaries, as long as they have units of Work. I was instructed not to --assume this is Coach 4, but rather use a subquery or JOIN within my statement. Then I was to increase the salary by 2.--55% and round to the nearest whole number – zero cents.
 ```{sql connection=}
 UPDATE Coach c
         LEFT JOIN
@@ -169,7 +170,7 @@ WHERE
 ;
 ```
 
-##Next, I was instructed to delete the UnitOfWork for all coaches whose Team’s City does NOT begin with R, S, or T:
+## Next, I was instructed to delete the UnitOfWork for all coaches whose Team’s City does NOT begin with R, S, or T:
 ```{sql connection=}
 DELETE UnitsOfWork FROM UnitsOfWork u
         LEFT JOIN
@@ -180,8 +181,7 @@ WHERE
     TeamCity NOT IN ('r%' , 's%', 't%')
 ;
 ```
-
-##Finally, I was instructed to delete the player history of the two players with the lowest batting average using a subquery or JOIN to figure which ones are the lowest:
+## Finally, I was instructed to delete the player history of the two players with the lowest batting average using a subquery or JOIN to figure which ones are the lowest:
 ```{sql connection=}
 DELETE FROM PlayerHistory ORDER BY PlayerBatingAverage LIMIT 2
 ;
