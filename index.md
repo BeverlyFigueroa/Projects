@@ -1,7 +1,5 @@
 ## Portfolio for Beverly Figueroa
 
-![image](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/BeverlyFigueroa1.jpg?raw=true)
-
 ### Education
 
 I recently received my Cybersecurity Essentials Certificate of Proficiency from Weber State University. I currently am finishing up my Associate of Applied Science in Cybersecurity & Network Management Technology from Weber State University, and plan on receiving my Bachelor of Science in April 2025.
@@ -28,7 +26,7 @@ Here are some of the case studies I've worked on that display my knowledge and s
      I created a program to calculate charges depending on the size of your group.
    - [Fat Burning Heart Rate & BMI Tracker](https://replit.com/@BeverlyFiguero1/BMITrackerpy#main.py)<br>
      I created a program to log your ideal heart rate and BMI into a file you can update then keep track of.
-3. **[SQL Baseball Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/Baseball.md)**<br>
+3. **[SQL Baseball Project](https://github.com/BeverlyFigueroa/Projects/blob/main/Baseball.md)**<br>
    A project for my CS2550 SQL class where I create a baseball league database.
 4. **[SQL Project](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/SQL.md)**<br>
    A case study on a World Covid Deaths dataset.
