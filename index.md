@@ -12,7 +12,7 @@ I am a highly motivated individual with an amazing work ethic, excellent analyti
 
 I am able to quickly retain new information in order to meet deadlines and productivity standards. I am able to work collaboratively and flexibly in a growing department. I am capable of working, planning, researching, and conducting projects independently. I am efficient at organizing and prioritizing workloads to manage multiple tasks with exceptional attention to detail. I am able to create and update reference materials, as well as communicate effectively (both orally and in writing), in both English and Spanish.
 
-I have experience identifying project objectives and design scope. I have created a project plan that has outlined the tasks, timelines, and resources required for project completion. I have communicated with the project team, ensuring that milestones were met while managing customer expectations.
+I have experience identifying project objectives and design scope. I have created project plans that have outlined the tasks, timelines, and resources required for project completion. I have communicated with the project team, ensuring that milestones were met while managing customer expectations.
 
 ### Case Studies
 
