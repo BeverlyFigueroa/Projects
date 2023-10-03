@@ -14,7 +14,7 @@ I have experience identifying project objectives and design scope. I have create
 
 ### Certificate of Proficiency
 
-**[Cybersecurity Essentials]** from Weber State University, Summer 2023.
+**[Cybersecurity Essentials](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/CybersecurityEssentials_eDimploma.pdf)** from Weber State University, Summer 2023.
 
 ### Case Studies
 
