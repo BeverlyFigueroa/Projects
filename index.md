@@ -4,7 +4,7 @@
 
 I recently received my Cybersecurity Essentials Certificate of Proficiency from Weber State University. I will soon receive my Associate of Applied Science in Cybersecurity & Network Management Technology (April of 2024), and plan on receiving my Bachelor of Science in the Spring of 2025.
 
-**[Cybersecurity Essentials Certificate of Proficiency](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/CybersecurityEssentials_eDiploma.pdf)**<br> Weber State University, Summer 2023.
+**[Cybersecurity Essentials Certificate of Proficiency](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/Screenshot%20from%202023-10-03%2013-21-38.png)**<br> Weber State University, Summer 2023.
 
 ### Professional Experience
 
