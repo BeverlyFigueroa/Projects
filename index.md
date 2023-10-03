@@ -4,6 +4,8 @@
 
 I recently received my Cybersecurity Essentials Certificate of Proficiency from Weber State University. I currently am finishing up my Associate of Applied Science in Cybersecurity & Network Management Technology from Weber State University, and plan on receiving my Bachelor of Science in April 2025.
 
+**[Cybersecurity Essentials Certificate of Proficiency](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/CybersecurityEssentials_eDimploma.pdf)**<br> from Weber State University, Summer 2023.
+
 ### Professional Experience
 
 I am a highly motivated individual with an amazing work ethic, excellent analytical skills as well as great problem-solving skills. I have continuously demonstrated initiative in researching and resolving intricate issues and I have become an asset to my department by demonstrating competency in my specialty while becoming well-respected among my peers. I exercise good judgment and am able to maneuver in a complex and rapidly changing work environment. 
@@ -11,10 +13,6 @@ I am a highly motivated individual with an amazing work ethic, excellent analyti
 I am able to quickly retain new information in order to meet deadlines and productivity standards. I am able to work collaboratively and flexibly in a growing department. I am capable of working, planning, researching, and conducting projects independently. I am efficient at organizing and prioritizing workloads to manage multiple tasks with exceptional attention to detail. I am able to create and update reference materials, as well as communicate effectively (both orally and in writing), in both English and Spanish.
 
 I have experience identifying project objectives and design scope. I have created project plans that have outlined the tasks, timelines, and resources required for project completion. I have communicated with the project team, ensuring that milestones were met while managing customer expectations.
-
-### Certificate of Proficiency
-
-**[Cybersecurity Essentials](https://github.com/BeverlyFigueroa/Projects/blob/gh-pages/CybersecurityEssentials_eDimploma.pdf)** from Weber State University, Summer 2023.
 
 ### Case Studies
 
