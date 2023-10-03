@@ -12,6 +12,10 @@ I am able to quickly retain new information in order to meet deadlines and produ
 
 I have experience identifying project objectives and design scope. I have created project plans that have outlined the tasks, timelines, and resources required for project completion. I have communicated with the project team, ensuring that milestones were met while managing customer expectations.
 
+### Certificate of Proficiency
+
+**[Cybersecurity Essentials]** from Weber State University, Summer 2023.
+
 ### Case Studies
 
 Here are some of the case studies I've worked on that display my knowledge and skills:
